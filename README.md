@@ -9,6 +9,7 @@
 - [Markdown 语法说明](http://wowubuntu.com/markdown/)
 
 ##联系方式
+阿里云邮箱:petertang@aliyun.com      
+谷歌邮箱：tangjm0727@gmail.com      
 - [Weibo](http://weibo.com/u/1905261931 "PetterTang's Weibo")
-- [Email](pettertang@aliyun.com "PetterTang's Email")
 - [FaceBook](https://www.facebook.com/people/%E6%B1%A4%E5%BB%BA%E6%98%8E/100010802836908 "PetterTang's facebook")
