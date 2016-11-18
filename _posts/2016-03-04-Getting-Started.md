@@ -15,6 +15,4 @@ excerpt_separator: "```"
 
 个人页面应用了 [liungkejin.github.io](https://github.com/liungkejin/liungkejin.github.io)项目
 
-```bash
-echo "你好, Github Pages!";
-```
+欢迎大家常来我的博客一起学习交流，如果你对我感兴趣，可以在About Me找到我的联系方式，期待和大家成为朋友，共同进步！
