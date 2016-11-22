@@ -1,7 +1,7 @@
 # Author settings
 name: 汤文恺
-title: 全栈开发工程师
-address: 中国, 北京
+title: 一个混迹在北六环的码代码的汉子
+address: 中国,北京
 email: pettertang@aliyun.com
 github: pettertang
 gavatar: /assets/img/avatar.JPG
@@ -50,11 +50,11 @@ languages:
 programmingSkills:
 - Java:
   name: Java
-  percentage: 90%
+  percentage: 70%
 - CPP:
   name: C/C++
-  percentage: 70%
+  percentage: 60%
 - Python:
   name: Python
-  percentage: 70%
+  percentage: 40%
 
