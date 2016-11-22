@@ -225,8 +225,4 @@ div.authorimage {
     background-color: rgba(51, 123, 181, 0.6);
     font-family: "Open Sans Condensed", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L",sans-serif;
     margin-top: 40px;
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    left: 0;
 }
