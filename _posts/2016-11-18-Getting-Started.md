@@ -4,10 +4,12 @@ title: 开篇
 time: 2016年11月18日 星期五
 location: 北京
 pulished: true
-excerpt_separator: "```"
+excerpt_separator: "#"
 ---
 
 大家好，关于搭建个人博客的想法由来已久。去年在国科大机缘巧合接触到了Ruby on Rails开发，然后在<a href="https://github.com/cseryp" target = "_blank">YaoPan</a>同学介绍下，知道了Jekyll。本应当时就做的事情结果一拖再拖，加之惰性使然，直到今天才勉强完成了个人博客的搭建。这件事也让我明白执行力的重要性。不幸的是，很多人，包括我自己，都是执行力并不强的人。
+
+#Getting-Started
 
 在这里我要再次感谢姚同学，他用实际行动证明了坚持一件事情直至培养成一种习惯之后能给自己带来意想不到的改变。在此附上他的CSDN博客链接<a href = "http://blog.csdn.net/napoay" target = "_blank">姚攀的博客</a>。
 
