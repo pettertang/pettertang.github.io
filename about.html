@@ -88,11 +88,15 @@ layout: author_layout
         </div>
         <div class="col-md-5">
             {% if site.data.author.programmingSkills %}
-                <h3 class="title with-icon"><span class="fa fa-code cat-title"></span> Programming Skills</h3>
+            <div class="deviter"></div>
+                <h3 class="title with-icon"><span class="fa fa-globe cat-title"></span> Programming Skills</h3>
                 <div class="grid-block">
-                    <ul class="list-unstyled list-skills">
+                    <ul class="list-unstyled list-strip">
+               <!--  <h3 class="title with-icon"><span class="fa fa-code cat-title"></span> Programming Skills</h3>
+                <div class="grid-block">
+                    <ul class="list-unstyled list-skills"> -->
                         {% for programmingSkill in site.data.author.programmingSkills %}
-                            <li>
+                            <!-- <li>
                                 {% if programmingSkill.name %}
                                     <span class="caption-skill">{{ programmingSkill.name }}</span>
                                 {% endif %}
@@ -103,11 +107,19 @@ layout: author_layout
                                         </div>
                                     </div>
                                 {% endif %}
-                            </li>
+                            </li> -->
+                            {% if programmingSkill.name %}
+                                {% if programmingSkill.proficiency %}
+                                    <li>
+                                        <i class="fa fa-check"></i> <span class="badge badge-green badge-right-float">{{ programmingSkill.proficiency }}</span>{{ programmingSkill.name }}
+                                    </li>
+                                {% endif %}
+                            {% endif %}
                         {% endfor %}
                     </ul>
                 </div>
             {% endif %}
+            <div class="deviter"></div>
             {% if site.data.author.languages %}
                 <div class="deviter"></div>
                 <h3 class="title with-icon"><span class="fa fa-globe cat-title"></span> Language Skills</h3>
@@ -150,7 +162,6 @@ layout: author_layout
                         <li>
                             <h4>QQ</h4>
                             <p>960707971</p>
-                            <p>加我请说明通过我的博客看到</p>
                         </li>
                     </ul>
             </div>

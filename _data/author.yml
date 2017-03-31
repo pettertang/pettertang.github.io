@@ -42,19 +42,19 @@ educationHistory:
 languages:
 - language1:
   name: 中文
-  proficiency: Native
+  proficiency: 精通
 - language2:
   name: English
-  proficiency: Limit
+  proficiency: 一般
 
 programmingSkills:
 - Java:
   name: Java
-  percentage: 70%
+  proficiency: 熟练运用
 - CPP:
   name: C/C++
-  percentage: 60%
+  proficiency: 基本掌握
 - Python:
   name: Python
-  percentage: 40%
+  proficiency: 基本掌握
 
