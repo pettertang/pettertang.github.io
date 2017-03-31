@@ -11,7 +11,8 @@ rss_url:
 highlight: true
 #highlighter: rouge
 
-timezone: Asia/Beijing
+#timezone: Asia/Beijing
+
 
 markdown: kramdown
 kramdown:
