@@ -1,14 +1,14 @@
 # 汤文恺的博客
 大家好，这是我的个人博客，主要用来总结自己工作学习过程中遇到和解决的问题，并记录一些生活中的点滴。
 
-##关于我
+## 关于我
 [这里有我的简介](https://pettertang.github.io/about.html)
 
 ## 技术支持
 - [jekyll](http://jekyll.com.cn/)
 - [Markdown 语法说明](http://wowubuntu.com/markdown/)
 
-##联系方式
+## 联系方式
 阿里云邮箱:pettertang@aliyun.com      
 谷歌邮箱：tangjm0727@gmail.com      
 - [Weibo](http://weibo.com/u/1905261931 "PetterTang's Weibo")
