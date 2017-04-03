@@ -7,7 +7,6 @@ pulished: true
 excerpt_separator: "**2.Convert Sorted Array to Binary Search Tree"
 ---
 **Leetcode刷题（一）**　　　**2017年3月30日** 　　　**天气：多云**   
----
 **1.判断二叉平衡树。(110)**     
 For this problem, a height-balanced binary tree is defined as a binary tree in which the depth of the two subtrees of every node never differ by more than 1.
 ```Java
