@@ -1,14 +1,14 @@
 ---
 layout: post_layout
 title: LeetCode刷题
-time: 2017年4月3日 星期四
+time: 2017年4月3日 星期一
 location: 北京
 pulished: true
 excerpt_separator: " However, you may not engage "
 ---
 
-**Leetcode刷题（二）**　　　**2017年4月3日** 　　　**天气：多云**  
-##    
+**Leetcode刷题（二）**　　　**2017年4月3日** 　　　**天气：多云** 
+---    
 **1.Best Time to Buy and Sell Stock II.(122)**     
 Say you have an array for which the ith element is the price of a given stock on day i.Design an algorithm to find the maximum profit. You may complete as many transactions as you like (ie, buy one and sell one share of the stock multiple times). However, you may not engage in multiple transactions at the same time (ie, you must sell the stock before you buy again).      
 ```Java
@@ -24,7 +24,7 @@ public class Solution {
     }
 }
 ```
-##
+---
 **2.Valid Palindrome(125)**     
 Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.  
 **For example:**     
@@ -53,7 +53,7 @@ public class Solution {
     }
 }
 ```
-##
+---
 **3.Single Number(136)**       
 Given an array of integers, every element appears twice except for one. Find that single one.      
 Note:Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory?      
@@ -69,7 +69,7 @@ public class Solution {
     }
 }
 ```
-##
+---
 **4.Linked List Cycle(141)**      
 Given a linked list, determine if it has a cycle in it.Can you solve it without using extra space?        
 ```Java
@@ -104,7 +104,7 @@ public class Solution {
     }
 }
 ```
-##
+---
 **5.Min Stack(155)**      
 Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.  
 push(x) -- Push element x onto stack.     
@@ -155,7 +155,7 @@ public class MinStack {
     }
 }
 ```
-##
+---
 **6.Intersection of Two Linked Lists(160)**  
 Write a program to find the node at which the intersection of two singly linked lists begins.   
 For example, the following two linked lists:   
@@ -205,7 +205,7 @@ public class Solution {
     }
 }
 ```
-##
+---
 **7.Two Sum II - Input array is sorted(167)**  
 Given an array of integers that is already **sorted in ascending order**, find two numbers such that they add up to a specific target number.The function twoSum should return indices of the two numbers such that they add up to the target, where index1 must be less than index2. Please note that your returned answers (both index1 and index2) are not zero-based.  
 You may assume that each input would have exactly one solution and you may not use the same element twice.  
@@ -239,7 +239,7 @@ public class Solution {
     }
 }
 ```
-##  
+---  
 **8.Excel Sheet Column Title(168)**  
 Given a positive integer, return its corresponding column title as appear in an Excel sheet.  
 **For example:**   
@@ -278,7 +278,7 @@ public class Solution {
     }
 }   
 ```
-##
+---
 **9.Excel Sheet Column Number(171)**  
 Related to question **Excel Sheet Column Title**.  
 Given a column title as appear in an Excel sheet, return its corresponding column number.  
@@ -304,7 +304,7 @@ public class Solution {
     }
 }
 ```
-##
+---
 **10.Majority Element(169)**  
 Given an array of size n, find the majority element. The majority element is the element that appears more than ⌊ n/2 ⌋ times.  
 You may assume that the array is non-empty and the majority element always exist in the array.  
