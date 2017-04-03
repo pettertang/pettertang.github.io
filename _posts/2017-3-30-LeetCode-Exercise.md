@@ -6,8 +6,8 @@ location: 北京
 pulished: true
 excerpt_separator: "**2.Convert Sorted Array to Binary Search Tree"
 ---
-
-**Leetcode刷题（一）**　　　**2017年3月30日** 　　　**天气：多云**        
+**Leetcode刷题（一）**　　　**2017年3月30日** 　　　**天气：多云**  
+##      
 **1.判断二叉平衡树。(110)**     
 For this problem, a height-balanced binary tree is defined as a binary tree in which the depth of the two subtrees of every node never differ by more than 1.
 ```Java
@@ -38,6 +38,7 @@ public class Solution {
     }
 }
 ```
+##
 **2.Convert Sorted Array to Binary Search Tree(108)**  
 Given an array where elements are sorted in ascending order, convert it to a height balanced BST.
 ```Java
@@ -71,6 +72,7 @@ public class Solution {
     }
 }
 ```
+##
 **3.Minimum Depth of Binary Tree(111)**     
 Given a binary tree, find its minimum depth.
 The minimum depth is the number of nodes along the shortest path from the root node down to the nearest leaf node.
@@ -97,6 +99,7 @@ public class Solution {
     }
 }
 ```
+##
 **4.Path Sum(112) (只需要判断是否存在，注意和下面题目5的区别  )**    
 Given a binary tree and a sum, determine if the tree has a root-to-leaf path such that adding up all the values along the path equals the given sum.
 ```Java
@@ -121,6 +124,7 @@ public class Solution {
     }
 }
 ```
+##
 **5.Path Sum II (113)**       
 Given a binary tree and a sum, find all root-to-leaf paths where each path's sum equals the given sum.(需要输出所有满足的路径集合)        
 Java代码1：
@@ -224,6 +228,7 @@ class Solution(object):
     return [[root.val] + i for i in a]
 
 ```
+##
 **6.Pascal's Triangle   (LeetCode 118)**      
 Given numRows, generate the first numRows of Pascal's triangle.
 ```Java
@@ -249,6 +254,7 @@ public class Solution {
     }
 }
 ```
+##
 **7.Pascal's Triangle II(LeetCode 119)**     
 Given an index k, return the kth row of the Pascal's triangle.     
 For example, given k = 3,Return [1,3,3,1].
@@ -269,13 +275,14 @@ public class Solution {
     }
 }
 ```
+##
 **8.Best Time to Buy and Sell Stock (121)**     
 Say you have an array for which the ith element is the price of a given stock on day i.If you were only permitted to complete at most one transaction (ie, buy one and sell one share of the stock), design an algorithm to find the maximum profit.           
-######Example 1:       
+**Example 1:**    
 Input: [7, 1, 5, 3, 6, 4]        
 Output: 5       
 max. difference = 6-1 = 5 (not 7-1 = 6, as selling price needs to be larger than buying price)       
-######Example 2:      
+**Example 2:**      
 Input: [7, 6, 4, 3, 1]       
 Output: 0        
 In this case, no transaction is done, i.e. max profit = 0. 
