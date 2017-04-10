@@ -6,8 +6,8 @@ location: 北京
 pulished: true
 excerpt_separator: "there are at least 3 different"
 ---
-###LeetCode刷题(三)　　2017年4月10日　　天气：阴 转多云 
-####1.Factorial Trailing Zeroes(172)  
+**LeetCode刷题(三)**　　**2017年4月10日**　　**天气：阴 转多云**   
+**1.Factorial Trailing Zeroes(172)**  
 Given an integer n, return the number of trailing zeroes in n!.  
 **Note:**Your solution should be in logarithmic time complexity.  
 ```Java
@@ -24,9 +24,9 @@ public class Solution {
     }
 }
 ```  
-####2.Rotate Array(189)  
+**2.Rotate Array(189)**  
 Rotate an array of n elements to the right by k steps.  
-For example, with n = 7 and k = 3, the array ``[1,2,3,4,5,6,7] ``is rotated to ``[5,6,7,1,2,3,4]``.  
+For example, with n = 7 and k = 3, the array [1,2,3,4,5,6,7] is rotated to [5,6,7,1,2,3,4].  
 **Note:**  
 Try to come up as many solutions as you can, there are at least 3 different ways to solve this problem.  
 ```Java
@@ -77,9 +77,9 @@ public class Solution {
     }
 }
 ```
-####3.Number of 1 Bits(191)  
-Write a function that takes an unsigned integer and returns the number of ’1' bits it has (also known as the ``Hamming weight``).  
-For example, the 32-bit integer ’11' has binary representation`` 00000000000000000000000000001011``, so the function should return 3.  
+**3.Number of 1 Bits(191)**  
+Write a function that takes an unsigned integer and returns the number of ’1' bits it has (also known as the **Hamming weight**).  
+For example, the 32-bit integer ’11' has binary representation** 00000000000000000000000000001011**, so the function should return 3.  
 ```Java
 方法一：
 public class Solution {
@@ -111,7 +111,7 @@ public class Solution {
     }
 }
 ```
-####4.House Robber(198)  
+**4.House Robber(198)**  
 You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security system connected and **it will automatically contact the police if two adjacent houses were broken into on the same night**.  
 Given a list of non-negative integers representing the amount of money of each house, determine the maximum amount of money you can rob tonight **without alerting the police**.  
 ```Java
@@ -156,7 +156,7 @@ public class Solution {
     }
 }
 ```
-####5.Happy Number(202)  
+**5.Happy Number(202)**  
 Write an algorithm to determine if a number is "happy".  
 A happy number is a number defined by the following process: Starting with any positive integer, replace the number by the sum of the squares of its digits, and repeat the process until the number equals 1 (where it will stay), or it loops endlessly in a cycle which does not include 1. Those numbers for which this process ends in 1 are happy numbers.  
 **Example**:19 is a happy number  
