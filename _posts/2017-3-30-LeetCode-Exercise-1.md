@@ -1,6 +1,6 @@
 ---
 layout: post_layout
-title: LeetCode刷题
+title: LeetCode刷题-1
 time: 2017年3月30日 星期四
 location: 北京
 pulished: true
