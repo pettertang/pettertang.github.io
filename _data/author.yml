@@ -6,13 +6,20 @@ email: pettertang@aliyun.com
 github: pettertang
 gavatar: /assets/img/avatar.JPG
 internshipExperience:
+- experience3:
+  company: CEC第六研究所软件技术研究室
+  location: 中国，北京
+  title: Java开发实习生
+  started: 2016
+  duration: (2016.10 - 2017-3)
+  description: 参与某导控项目系统配置管理软件后台开发
 - experience2:
   company: 中航信移动科技有限公司
   location: 中国，北京
   title: 后台实习生
   started: 2016
   duration: (2016.4 - 2016-5)
-  description: 为某些航空公司爬取乘客的相关信息
+  description: 相关数据信息抓取工作
 
 - experience1:
   company: TCL集团工业研究院
@@ -20,7 +27,7 @@ internshipExperience:
   title: Java开发实习生
   started: 2015
   duration: (2015.7 - 2015.9)
-  description: 为团队项目开发一款暴风数据服务导出工具
+  description: 为团队项目开发一款数据服务导出工具
 
 educationHistory:
 - education2:
