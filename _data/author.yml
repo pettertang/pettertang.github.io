@@ -7,19 +7,19 @@ github: pettertang
 gavatar: /assets/img/avatar.JPG
 internshipExperience:
 - experience3:
-  company: CEC第六研究所软件技术研究室
+  company: TalkingData
   location: 中国，北京
   title: Java开发实习生
-  started: 2016
-  duration: (2016.10 - 2017-3)
-  description: 参与某导控项目系统配置管理软件后台开发
+  started: 2017
+  duration: (2017.06 - 至今)
+  description: 参与公司智能数据服务商城的开发，主要开发RESTful接口
 - experience2:
   company: 中航信移动科技有限公司
   location: 中国，北京
   title: 后台实习生
   started: 2016
   duration: (2016.4 - 2016-5)
-  description: 相关数据信息抓取工作
+  description: 用Java进行相关数据信息的抓取工作
 
 - experience1:
   company: TCL集团工业研究院
