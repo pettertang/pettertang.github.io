@@ -4,7 +4,7 @@ title: TD-Summary for week 3
 time: 2017年6月22日 星期四
 location: 北京
 pulished: true
-excerpt_separator: "**不同的环境可能会有不同"
+excerpt_separator: "不同的环境可能会有不同"
 ---
 ### 第3周总结
 

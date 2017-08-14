@@ -4,7 +4,7 @@ title: TD-Summary for week 4
 time: 2017年6月29日 星期四
 location: 北京
 pulished: true
-excerpt_separator: "**以下是我在最近项目中"
+excerpt_separator: "以下是我在最近项目中"
 ---
 ### 第4周总结  
 
