@@ -6,7 +6,7 @@ location: 北京
 pulished: true
 excerpt_separator: "**以下是我在最近项目中"
 ---
-## 第4周总结  
+### 第4周总结  
 
 **1**.httpclient是一个很重的对象，如果在一个项目中多次创建新的httpclient对象，将是一件很消耗资源的事情。**CloseableHttpClient**已经是线程安全的了，所以我们没有必要考虑安全问题。项目中，我们可以考虑将创建httpclient单独提取出来实现单例模式，这样可以大大提高效率和节约资源。以下是我在最近项目中的一个简单实现：
 ```Java

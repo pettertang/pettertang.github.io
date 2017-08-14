@@ -6,7 +6,7 @@ location: 北京
 pulished: true
 excerpt_separator: "**不同的环境可能会有不同"
 ---
-## 第3周总结
+### 第3周总结
 
 **1**.在项目中，像List这种很大的对象能不用尽量就别用。
 

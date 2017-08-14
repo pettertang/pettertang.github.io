@@ -6,7 +6,7 @@ location: 北京
 pulished: true
 excerpt_separator: "**2**.LeetCode(11)"
 ---
-## 第7周总结
+### 第7周总结
 
 **1**.Mysql中的表增加删除字段  
 1.1向表中增加一个字段  

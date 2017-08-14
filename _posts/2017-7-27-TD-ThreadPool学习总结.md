@@ -6,7 +6,7 @@ location: 北京
 pulished: true
 excerpt_separator: "基于这个理解，我们可以"
 ---
-## ThreadPool
+### ThreadPool
 
 我们知道，在程序中new一个新的thread是需要成本的。如果我们在项目开发中，每一个task我们都去new一个thread来处理，并且有很多小task需要处理，那产生thread的成本是相当高的。所以，比较好的解决办法就是产生一堆的threads，称之为thread pool，让这些开好的thread来处理这些小的task。  
 Thread pool的三大元素是thread，task和queue。我们可以将thread pool理解成生产者消费者模式的一种形式，consumer就是一堆threads，当queue中有task进来，一个空闲的thread就会取出来处理。  
@@ -105,7 +105,7 @@ Thread-4 shutdown
 产生了一个有5个thread的thread pool，queue里面放的是一个Runnable，代表一个可以执行的task。  
 当然，上面这个只是基于线程池的概念实现的一个最基本的线程池，真正的线程池包含的东西要多的多，下面来介绍一下Java中已经给我们实现好的一些Thread Pool。  
 
-## Java中的Basic Thread Pool  
+### Java中的Basic Thread Pool  
 
 **1**. 关于Java线程池  
 每个线程池由几个模块组成：  
@@ -345,7 +345,7 @@ ThreadPoolExecutor.CallerRunsPolicy：由调用线程处理该任务
 ```
 
 ---
-## ForkJoinPool
+### ForkJoinPool
 从Java8开始，JDK又给我们提供了一种新的线程池：  
 **newWorkStealingPool()**：创建一个拥有多个任务队列（以便减少连接数）的线程池。   
 这是一种ForkJoinPool  
